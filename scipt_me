@@ -1,0 +1,15 @@
+box
+80 250 0 400 200 300
+ident
+torus
+175 175 0 20 60
+sphere
+350 175 0 50
+rotate
+x 10
+rotate
+y 10
+apply
+display
+save
+pic.png
